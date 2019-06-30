@@ -1,6 +1,6 @@
 {
   "name": "generator-rnapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native App generator",
   "main": "generators/index.js",
   "scripts": {
