@@ -1,4 +1,4 @@
-# generator-rn
+# generator-rnapp
 
 ## Installation
 First, you need to install [Yeoman](http://yeoman.io) and generator-rnapp with [npm](https://www.npmjs.com/)
