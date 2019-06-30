@@ -1,5 +1,5 @@
 {
-  "name": "generator-rn",
+  "name": "generator-rnapp",
   "version": "1.0.0",
   "description": "React Native template generator",
   "main": "generators/index.js",

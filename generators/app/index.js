@@ -17,7 +17,7 @@ module.exports = class extends Generator {
 
   prompting() {
     this.log(yosay(
-      'Hello there! Welcome to React Native ' + chalk.blue('generator-rn') + ' generator!'
+      'Hello there! Welcome to React Native ' + chalk.blue('generator-rnapp') + ' generator!'
     ));
     return this.prompt(prompts).then((props) => {
       this.props = props;
