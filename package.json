@@ -1,7 +1,7 @@
 {
   "name": "generator-rnapp",
   "version": "1.0.0",
-  "description": "React Native template generator",
+  "description": "React Native App generator",
   "main": "generators/index.js",
   "scripts": {
     "test": "test"
@@ -12,6 +12,10 @@
   "keywords": [
     "yeoman-generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsabyr1878/generator-rnapp"
+  },
   "author": "Baurzhan Sabyr",
   "license": "ISC",
   "dependencies": {
