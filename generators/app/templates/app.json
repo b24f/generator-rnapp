@@ -1,0 +1,4 @@
+{
+  "name": "<%= _.camelCase(name) %>",
+  "displayName": "<%= _.camelCase(name) %>"
+}

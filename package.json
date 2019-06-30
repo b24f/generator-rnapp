@@ -1,0 +1,24 @@
+{
+  "name": "generator-rn",
+  "version": "1.0.0",
+  "description": "React Native template generator",
+  "main": "generators/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Baurzhan Sabyr",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^4.0.1",
+    "yosay": "^2.0.2"
+  }
+}
